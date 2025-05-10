@@ -2,8 +2,6 @@
 
 An AI-powered assistant designed to help CTF (Capture The Flag) participants analyze challenges and develop solution strategies.
 
-![CTF Assistant Screenshot](screenshot.png)
-
 ## Features
 
 - **Challenge Analysis**: Upload challenge files, screenshots, and descriptions to get AI-powered insights
