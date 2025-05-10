@@ -1,0 +1,25 @@
+```
+CYBERSEC-AGENT/
+│
+├── backend/                    # FastAPI backend server
+│   ├── __pycache__/            # Python bytecode cache
+│   ├── temp/                   # Temporary storage for uploaded files
+│   └── Main.py                 # FastAPI backend implementation
+│
+├── src/                        # React frontend source files
+│   ├── App.css                 # Styling for the main React component
+│   ├── App.jsx                 # Main React component
+│   └── index.jsx               # React entry point
+│
+├── node_modules/               # Node.js dependencies
+├── .env                        # Environment variables
+├── CTF.png                     # Project logo/screenshot
+├── Guide for gemini api.md     # Documentation for Gemini API integration
+├── index.html                  # HTML entry point for the React app
+├── package-lock.json           # NPM dependency lock file
+├── package.json                # NPM configuration
+├── project-structure.txt       # Project structure documentation
+├── README.md                   # Project documentation
+├── requirements.txt            # Python dependencies
+└── vite.config.js              # Vite configuration for the frontend
+```
